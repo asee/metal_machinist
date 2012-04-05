@@ -1,3 +1,5 @@
+require 'machinist/active_record' 
+
 module MetalMachinist
   module Lathe  
     
